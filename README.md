@@ -1,16 +1,16 @@
-# profolio_torgodly
+<h1>Hi 👋, I'm Abdullah al-hajj</h1>
+<h3>A passionate mobile & web developer from Libya</h3>
 
-A new Flutter project.
+- 👨‍💻 All of my projects are available at [my website](http://torgodly.ml/)
 
-## Getting Started
+- 💬 Ask me about **Android, Flutter**
 
-This project is a starting point for a Flutter application.
+- 📫 How to reach me **torgodly@gmail.com**
 
-A few resources to get you started if this is your first Flutter project:
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/torgodly/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://fb.com/torgodly" target="_blank"><img src="https://img.shields.io/badge/Facebook-%232D88FF.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.twitter.com/torgodly" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<br><br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=torgodly&show_icons=true&locale=en" alt="torgodly" /></p>
