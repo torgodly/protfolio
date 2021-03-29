@@ -8,7 +8,6 @@ import 'dart:html' as html;
         html.window.open(link, 'new tab');
       },
           child: Container(
-        //color: Colors.black,
         padding: size.width > 770 ? EdgeInsets.only(left: 20) : EdgeInsets.zero,
         child: Row(
           children: [
